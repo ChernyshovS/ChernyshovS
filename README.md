@@ -4,6 +4,10 @@
 
 ## Проекты
 
+### 🛠️ [Вайб-кодер на час](https://vibecoder-na-chas.ru)
+Сайт-визитка в духе «мастера на час», только вместо перфоратора нейросеть: боты, сайты, таблицы и автоматизация для небольшого бизнеса. Сам сайт тоже собран с помощью ИИ.
+[vibecoder-na-chas.ru](https://vibecoder-na-chas.ru) · [витрина](https://github.com/ChernyshovS/vibecoder-na-chas)
+
 ### 🎯 [VrnCartridgesBot](https://github.com/ChernyshovS/VrnCartridgesBot-showcase)
 Бот для Telegram и ВКонтакте: сравнивает цены на патроны в оружейных магазинах Воронежа, приводит их к цене за один патрон и сообщает, когда нужное появилось в наличии или подешевело.
 [Telegram](https://t.me/VrnCartridgesBot) · [ВКонтакте](https://vk.com/vrncartridgesbot) · [описание и скриншоты](https://github.com/ChernyshovS/VrnCartridgesBot-showcase)
