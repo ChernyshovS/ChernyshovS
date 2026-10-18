@@ -27,6 +27,6 @@ Claude Code · Python · PowerShell · Telegram Bot API · VK API · Linux-се�
 
 ## Связаться
 
-[![Telegram](https://img.shields.io/badge/Telegram-@stanislavchernyshov-2CA5E0?logo=telegram&logoColor=white)](https://t.me/stanislavchernyshov)
+[![Telegram](https://img.shields.io/badge/Telegram-@stnslvg-2CA5E0?logo=telegram&logoColor=white)](https://t.me/stnslvg)
 [![ВКонтакте](https://img.shields.io/badge/ВКонтакте-setsetch-0077FF?logo=vk&logoColor=white)](https://vk.ru/setsetch)
 [![Почта](https://img.shields.io/badge/Почта-pmchernyshovs@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:pmchernyshovs@gmail.com)
