@@ -8,6 +8,10 @@
 Сайт-визитка в духе «мастера на час», только вместо перфоратора нейросеть: боты, сайты, таблицы и автоматизация для небольшого бизнеса. Сам сайт тоже собран с помощью ИИ.
 [vibecoder-na-chas.ru](https://vibecoder-na-chas.ru) · [витрина](https://github.com/ChernyshovS/vibecoder-na-chas)
 
+### 💃 [Другие танцы](https://другиетанцы.рф)
+Сайт-визитка психолога, танцетерапевта и хореографа Оксаны Чернышовой: знакомство со специалистом, направления работы, детская группа, форматы встреч и стоимость. Тёплая палитра, плавные формы и CSS-анимации, настольная и мобильная версии.
+[другиетанцы.рф](https://другиетанцы.рф) · [витрина](https://github.com/ChernyshovS/drugie-tancy-showcase)
+
 ### 🎯 [VrnCartridgesBot](https://github.com/ChernyshovS/VrnCartridgesBot-showcase)
 Бот для Telegram и ВКонтакте: сравнивает цены на патроны в оружейных магазинах Воронежа, приводит их к цене за один патрон и сообщает, когда нужное появилось в наличии или подешевело.
 [Telegram](https://t.me/VrnCartridgesBot) · [ВКонтакте](https://vk.com/vrncartridgesbot) · [описание и скриншоты](https://github.com/ChernyshovS/VrnCartridgesBot-showcase)
