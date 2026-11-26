@@ -19,19 +19,8 @@
 ### 📶 [dlink-dir825-macfilter](https://github.com/ChernyshovS/dlink-dir825-macfilter)
 Блокировка устройств и белый список Wi-Fi на роутере D-Link DIR-825ACG1 — галочкой в окне или одной командой, без захода в веб-интерфейс. Работает через недокументированный API прошивки, который пришлось разобрать и описать.
 
-### 📱 RouterHome для Android и iPhone
-Приложение для D-Link DIR-825ACG1. Показывает устройства в домашней сети, управляет доступом в интернет и белым списком Wi-Fi. Телефон подключается к роутеру напрямую, поэтому компьютер можно выключить.
-
-<details>
-<summary>Ссылки и изображения</summary>
-
-[Android 1.0.0 (APK)](https://github.com/ChernyshovS/dlink-dir825-macfilter/releases/download/routerhome-mobile-2026-11-27/router-mobile-1.0.0.apk) · [iOS 0.1.0 (IPA)](https://github.com/ChernyshovS/dlink-dir825-macfilter/releases/download/routerhome-mobile-2026-11-27/RouterHome-iOS-unsigned.ipa) · [релиз и установка](https://github.com/ChernyshovS/dlink-dir825-macfilter/releases/tag/routerhome-mobile-2026-11-27)
-
-<img src="images/routerhome-android.png" alt="RouterHome для Android в светлой теме" width="270"> <img src="images/routerhome-ios.png" alt="RouterHome для iOS в тёмной теме" width="270">
-
-*Демонстрация интерфейса на вымышленных устройствах.*
-
-</details>
+### 📱 [RouterHome для Android и iPhone](https://github.com/ChernyshovS/dlink-dir825-macfilter/releases/tag/routerhome-mobile-2026-11-27)
+Приложение для D-Link DIR-825ACG1. Показывает устройства в домашней сети, управляет доступом в интернет и белым списком Wi-Fi. Телефон подключается к роутеру напрямую.
 
 ### 🔋 [battery-dispenser-18650](https://github.com/ChernyshovS/battery-dispenser-18650)
 Доработка 3D-модели для печати: дозатор батареек AAA и AA перестроен с сохранением всех размеров оригинала и дополнен отсеком под аккумуляторы 18650. Герметичная сетка, арки над смотровыми щелями вместо мостиков.
